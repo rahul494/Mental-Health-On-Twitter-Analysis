@@ -18,16 +18,3 @@ with open('filtered_tweets_per_abused_user.csv', 'w') as csvStorage:
                     csv_writer.writerow([row[0], row[1]])
                     added = True
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-  
