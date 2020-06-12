@@ -57,20 +57,3 @@ with open('top_abused_words_per_user_filtered.csv', 'w') as csvStorage:
         i = i + 1
         print("User: " + user + " is completed at the " + str(i) + "-th iteration.\nTime taken: " + str(time.time()-start_time) + ". \nTotal time thus far: " + str(time.time()-original_time))
         print("-------------------------------")
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-  
